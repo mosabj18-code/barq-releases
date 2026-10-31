@@ -1,0 +1,39 @@
+{
+  "schema": 1,
+  "minAppVersionCode": 1,
+  "notice": {
+    "id": "",
+    "text": "",
+    "level": "info"
+  },
+  "engine": {
+    "minVersion": "",
+    "forceUpdate": false
+  },
+  "platforms": {
+    "YOUTUBE": {
+      "enabled": true,
+      "fastMode": true,
+      "extraArgs": []
+    },
+    "TIKTOK": {
+      "enabled": true,
+      "fastMode": true,
+      "extraArgs": []
+    },
+    "INSTAGRAM": {
+      "enabled": true,
+      "fastMode": true,
+      "extraArgs": []
+    },
+    "FACEBOOK": {
+      "enabled": true,
+      "fastMode": true,
+      "extraArgs": []
+    }
+  },
+  "latestApp": {
+    "versionCode": 1,
+    "versionName": "1.0.0"
+  }
+}
